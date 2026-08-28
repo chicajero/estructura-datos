@@ -84,7 +84,7 @@ class linked_list:
 new_list = linked_list()
 
 while True:
-    print("--- REPRODUCTOR DE MUSICA ---")
+    print("--- NUEVO MENU ---")
     print("1. insetar cancion ")
     print("2. buscar cancion")
     print("3. mostrar canciones")
